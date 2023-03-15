@@ -1,6 +1,6 @@
 import React from "react"
-import ControlledInputs from "./components/ControlledInputs"
-import UserChallenge from "./components/UserChallenge"
+import ControlledInputs from "./components/forms/ControlledInputs"
+import UserChallenge from "./components/forms/UserChallenge"
 
 const App = () => {
 	return (
